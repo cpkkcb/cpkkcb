@@ -3,7 +3,7 @@
 I'm cpkkcb
 
   * 🌱 介绍：网络安全练习生
-  * 📕 擅长语言: html
+  * 📕 擅长语言: html/js
   * 📫 邮箱：d3JpdGV1cDEyM0AxNjMuY29t
 
 
